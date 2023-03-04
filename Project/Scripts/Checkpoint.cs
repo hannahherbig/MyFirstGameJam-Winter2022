@@ -24,7 +24,7 @@ public class Checkpoint : Node2D
         if (sprite.Animation == "active")
         {
             return false;
-        }    
+        }
         this.sprite.Play("active");
         IsActive = true;
         return true;

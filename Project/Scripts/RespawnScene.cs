@@ -3,8 +3,8 @@ using System;
 
 public class RespawnScene : Node2D
 {
-	public override void _Ready()
-	{
-		//Global.isPlaying = false;
-	}
+    public override void _Ready()
+    {
+        //Global.isPlaying = false;
+    }
 }

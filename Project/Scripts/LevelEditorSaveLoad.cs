@@ -2,7 +2,7 @@ using Godot;
 using System;
 
 public class LevelEditorSaveLoad : FileDialog
-{    
+{
     private EditorObject editorObject;
 
     public override void _Ready()
